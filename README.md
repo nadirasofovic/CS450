@@ -77,7 +77,3 @@ npx react-native run-ios --configuration Release
 ```
 
 For App Store deployment, use **Fastlane** or Xcode.
-
----
-This document provides an overview of the essential setup, dependencies, and development workflow for the application. Make sure to keep it updated with project-specific requirements!
-
